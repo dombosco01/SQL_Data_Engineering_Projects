@@ -1,0 +1,13 @@
+# Data Engineering Projects  
+
+The folllowing projects are a collection of SQL projects that i have worked on to practice and reinforce my skills with data engineering tools
+
+>click the project name below to view the tools i used to build these!
+
+# Projects
+
+## [1. EDA](../SQL_Data_Engineering_Projects/1_EDA/) -Exploratory Data Analysis 
+
+#### Project 1 Overview![Project 1 Overview](/Images/1_1_Project1_EDA.png)
+
+>SQL- driven analysis of data engineer job market trends using advance querying techniques
