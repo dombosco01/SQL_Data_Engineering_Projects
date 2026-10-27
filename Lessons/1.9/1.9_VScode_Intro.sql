@@ -1,2 +1,2 @@
-SELECT 42 as answer
+SELECT *
 FROM data.jobs;
